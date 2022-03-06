@@ -1,0 +1,14 @@
+/* styles.css */
+
+.yes,.no {
+    font-size: 72px;
+    font-family: helvetica, times new roman, sans-serif;  
+}
+.yes {
+    background-color: black;
+    color: white;
+}
+.no {
+    background-color: yellow;
+    color: black;
+}
